@@ -1,0 +1,52 @@
+@import "global.scss";
+
+.footer {
+  height: 45vh;
+  background-color: #bfd63c;
+  padding: 4px;
+  text-align: center;
+  font-family: var(--ff-secondary);
+}
+
+.footerTitle {
+  font-size: 2em;
+  margin-top: 1.3em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: var(--ff-secondary);
+  font-weight: bold;
+  color: #7a8d11;
+  width: fit-content;
+}
+
+.footerList {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+  justify-content: center;
+  width: fit-content;
+}
+
+.listItem {
+  margin: 0.4em;
+  font-size: 1.5em;
+  color: #0b0c03;
+  text-align: center;
+}
+
+a {
+  color: #0b0c03;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7a8d11;
+}
+
+i {
+  margin: 0;
+  padding: 0;
+}

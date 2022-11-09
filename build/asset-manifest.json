@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3feeab2.chunk.css",
+    "main.js": "/static/js/main.aa20d187.chunk.js",
+    "main.js.map": "/static/js/main.aa20d187.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e9c4246.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e9c4246.js.map",
+    "static/css/2.5f16c65c.chunk.css": "/static/css/2.5f16c65c.chunk.css",
+    "static/js/2.be3ced8e.chunk.js": "/static/js/2.be3ced8e.chunk.js",
+    "static/js/2.be3ced8e.chunk.js.map": "/static/js/2.be3ced8e.chunk.js.map",
+    "static/js/3.5eb5816a.chunk.js": "/static/js/3.5eb5816a.chunk.js",
+    "static/js/3.5eb5816a.chunk.js.map": "/static/js/3.5eb5816a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5f16c65c.chunk.css.map": "/static/css/2.5f16c65c.chunk.css.map",
+    "static/css/main.d3feeab2.chunk.css.map": "/static/css/main.d3feeab2.chunk.css.map",
+    "static/js/2.be3ced8e.chunk.js.LICENSE.txt": "/static/js/2.be3ced8e.chunk.js.LICENSE.txt",
+    "static/media/remixicon.css": "/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9c4246.js",
+    "static/css/2.5f16c65c.chunk.css",
+    "static/js/2.be3ced8e.chunk.js",
+    "static/css/main.d3feeab2.chunk.css",
+    "static/js/main.aa20d187.chunk.js"
+  ]
+}

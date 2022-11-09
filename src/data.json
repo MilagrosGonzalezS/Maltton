@@ -1,0 +1,52 @@
+[
+
+{
+    "id": "1",
+    "title": "Blusa Magnolia",
+    "price": 1500,
+    "image": "imgs/producto1.jpg",
+    "alt": "blusa negra con escote"
+},
+
+{
+    "id": "2",
+    "title": "Jumper Amy",
+    "price": 2600,
+    "image": "imgs/producto2.jpg",
+    "alt": "jardinero blanco pollera"
+},
+
+{
+    "id": "3",
+    "title": "Mono Lino",
+    "price": 2100,
+    "image": "imgs/producto3.jpg",
+    "alt": "mono verde militar"
+},
+
+{
+    "id": "4",
+    "title": "Blusa Alice",
+    "price": 2300,
+    "image": "imgs/producto4.jpg",
+    "alt": "blusa blanca suelta con mangas y bordados azules"
+},
+
+{
+    "id": "5",
+    "title": "Bolso India",
+    "price": 2400,
+    "image": "imgs/producto5.jpg",
+    "alt": "bolso con estampa"
+},
+
+{
+    "id": "6",
+    "title": "Vestido Vera",
+    "price": 1750,
+    "image": "imgs/producto6.jpg",
+    "alt": "vestido floreado"
+}
+
+]
+
